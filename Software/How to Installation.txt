@@ -1,0 +1,1 @@
+Doule click on the setup 'OBIA_pkg', this will install the OBIA software in the same folder. The application can launched by clicking the file 'OBIA.exe'. A black screen will appear, a few seconds after which the application will start.
